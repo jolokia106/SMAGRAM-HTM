@@ -1,0 +1,15 @@
+{
+    "data": [
+      {
+        "加盟店コード": "232",
+        "加盟店名": "A店",
+        "都道府県": "愛知県",
+        "代表者名": "個人テスト",
+        "事業種別": "SG",
+        "ステータス": "見込み",
+        "b1":  "<button type='submit' class='btn btn-primary'>基本情報</button>",
+        "b2":  "<button type='submit' class='btn btn-primary'>店舗情報</button>"
+      }
+    ]
+  }
+  
